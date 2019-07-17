@@ -1,0 +1,14 @@
+{
+  "name": "",
+  "version": "",
+  "description": "",
+  "scripts": {
+    "test": "echo \"No tests yet...\""
+  },
+  "author": "",
+  "dependencies": {
+    "@nuxtjs/axios": "^5.5.4",
+    "azure-functions-bridge": "^0.1.4",
+    "nuxt": "^2.8.1"
+  }
+}
